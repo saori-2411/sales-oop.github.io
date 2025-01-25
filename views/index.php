@@ -21,6 +21,7 @@ ini_set('display_errors', 1);
         <h2 class="display-2 text-primary text-center fw-bold">LOGIN <i class="fa-solid fa-right-to-bracket"></i></h2>
     </header>
 
+    <!--Login form-->
     <main class="container">
         <div class="w-50 mx-auto mb-4">
             <form action="../actions/login.php" method="post" class="mx-auto">
